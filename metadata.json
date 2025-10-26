@@ -1,0 +1,5 @@
+{
+  "name": "Image Text Decipher",
+  "description": "An application that uses Gemini to analyze blurry or pixelated images and identify the text within them.",
+  "requestFramePermissions": []
+}
